@@ -1,0 +1,808 @@
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (0, 'Hulala', 'Preparat cu Aerosoli Indulcit pe baza de Smantana si Grasimi Vegetale 700ml', 58.29);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (1, 'Cremolinea', 'Colorant Alimentar Galben 500g', 16.93);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (2, 'Italmill', 'Drojdie Uscata 100g', 12.59);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (3, 'Cremolinea', 'Colorant Alimentar Rosu 500g', 16.93);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (4, 'Cremolinea', 'Colorant Alimentar Verde 500g', 16.93);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (5, 'Knorr', 'Maizena Amidon de Porumb 2,5Kg', 71.11);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (6, 'Dr.Oetker', 'Praf de Copt 10g', 0.72);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (7, 'Decocino', 'Ochi Comestibili de Zahar 25g', 22.66);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (8, 'Dr.Oetker', 'Lapte Praf Integral 26% Grasime 1kg', 61.59);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (9, 'Van', 'Cacao Pudra cu Continut redus de Grasime 200g', 11.18);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (10, 'Dr.Oetker', 'Finesse Aroma Naturala de Vanilie Bourbon cu Alte Arome Naturale 2bucati x 5g', 6.95);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (11, 'Elle&Vire', 'Frisca Lichida UHT Excellence Sterilizata 35% Grasime 1L', 49.02);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (12, 'Pakmaya', 'Drojdie Uscata 10g', 1.94);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (13, 'Dr.Oetker', 'Mix pentru Clatite 190g', 4.55);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (14, 'Meggle', 'Frisca Lichida Creme Patisserie Decor fara Lactoza 1L', 31.93);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (15, 'Colin', 'Daily Bicarbonat de Sodiu Alimentar 500g', 7.06);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (16, 'Secretul', 'Bunicii Drojdie Proaspata 500g', 10.22);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (17, 'Dr.Oetker', 'Mix pentru Budinca la Cana cu Gust de Ciocolata 34g', 2.09);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (18, 'Dr.Oetker', 'Gustin Amidon Alimentar Fin din Porumb 200g', 5.25);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (19, 'Dr.Oetker', 'Creioane pentru Decor Glazura din Zahar 76g', 17.9);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (20, 'Dr.Oetker', 'Cacao Neagra Pudra 100g', 10.49);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (21, 'Dr.Oetker', 'Esenta de Vanilie 38ml', 6.7);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (22, 'Dr.Oetker', 'Praf de Copt 3bucati x 10g', 1.92);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (23, 'Orlando''s', 'Aroma de Rom 250ml', 20.28);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (24, 'Dr.Oetker', 'Mix pentru Crema Tiramisu 1Kg', 45.9);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (25, 'Pion', 'Foi Cremsnit 400G', 13.8);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (26, 'Pakmaya', 'Drojdie Proaspata 500g', 9.53);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (27, 'Dr.Oetker', 'Zahar Vanilinat 8g', 0.72);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (28, 'Dr.Oetker', 'Original Praf de Budinca cu Gust de Ciocolată Albă și Alune de Padure 40g', 2.17);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (29, 'Dr.Oetker', 'Praf de Copt 500g', 18.0);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (30, 'Dr.Oetker', 'Original Pudding Praf de Budinca cu Gust de Vanilie 40g', 2.14);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (31, 'Dr.Oetker', 'Esenta de Rom 4fiole x 2ml', 6.7);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (32, 'Dr.Oetker', 'Mix pentru Crema Cremsnit 230g', 9.78);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (33, 'Dr.Oetker', 'Colorant Alimentar Rosu 10g', 8.1);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (34, 'Dr.Oetker', 'Budinca Premium Vanilie si Bourbon 34g', 6.09);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (35, 'Dr.Oetker', 'Praf de Budinca Premium cu Aroma de Fistic 36g', 3.98);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (36, 'Dr.Oetker', 'Mix pentru Budinca Premium cu Ciocolata Belgiana 51g', 3.71);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (37, 'Aristocrat', 'Lapte Praf 1Kg', 47.92);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (38, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Ciocolata Trufe si Rom 57g', 5.72);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (39, 'Cremolinea', 'Aroma de Vanilie 500g', 20.28);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (40, 'Pakmaya', 'Drojdie Uscata Activa 4bucati x 100g', 46.46);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (41, 'Dr.Oetker', 'Zahar cu Caramel 8g', 0.73);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (42, 'Kotanyi', 'Rasnita Zahar Tos cu Caramel Sarat 1.9% 65g', 20.57);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (43, 'Kotanyi', 'Rasnita Zahar Granulat cu Scortisoara 52g', 20.57);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (44, 'Ladorna', 'Frisca Vanilata si Indulcita 250g', 21.66);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (45, 'Bravo', 'Drojdie Proaspata 500g', 11.45);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (46, 'Schmidt', 'Cacao Pudra 20-22% Grasime 250g', 25.27);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (47, 'Cosmin', 'Cacao Vanda 75g', 5.72);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (48, 'Pion', 'Foi Napolitane 230G', 7.01);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (49, 'Dr.Oetker', 'Ornamente pentru Prajituri Fire Colorate de Zahar 30g', 3.48);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (50, 'Dr.Oetker', 'Ornamente pentru Prajituri Fire cu Gust de Ciocolata 30g', 3.48);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (51, 'Dr.Oetker', 'Original Pudding Praf de Budinca cu Gust de Ciocolata Neagra 40g', 2.79);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (52, 'Dr.Oetker', 'Mix pentru Budinca la Cana cu Gust de Vanilie 25g', 2.09);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (53, 'Dr.Oetker', 'Mix pentru Budinca la Cana cu Gust de Caramel 28g', 2.03);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (54, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Fructe de Padure 50g', 5.72);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (55, 'Dr.Oetker', 'Mix pentru Crema Alba ca Zapada Lamaita 150g', 10.49);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (56, 'Dr.Oetker', 'Colorant Alimentar Galben 10g', 8.1);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (57, 'Dr.Oetker', 'Gustin Amidon Alimentar din Porumb 1kg', 19.95);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (58, 'Boromir', 'Foi de Cremsnit 380g', 16.79);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (59, 'Decocino', 'Trandafiri din Hartie comestibila Roz 7g', 20.98);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (60, 'Cremolinea', 'Colorant Alimentar Albastru 500g', 23.73);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (61, 'Dr.Oetker', 'Mix pentru Crema pentru Tort de Biscuiti cu Gust de Ciocolata 90g', 4.27);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (62, 'Dr.Oetker', 'Creioane Pentru Decor Culori Pastelate 76g', 17.9);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (63, 'Ruf', 'Esenta de Vanilie 16fiole x 2ml', 17.28);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (64, 'Colin', 'Daily Colorant Alimentar Albastru 250ml', 8.47);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (65, 'Colin', 'Daily Colorant Alimentar Rosu 250ml', 8.47);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (66, 'Dr.Oetker', 'Bicarbonat de Sodiu Alimentar 10bucati x 50g', 15.11);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (67, 'Ruf', 'Esenta de Lamaie 16fiole x 2ml', 17.28);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (68, 'Adazia', 'Esenta de Vanilie 4bucati x 25ml', 5.31);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (69, 'Dr.Oetker', 'Zahar Vanilinat 4bucati x 8g', 2.56);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (70, 'Dr.Oetker', 'Praf de Copt 20bucati x 10g', 12.82);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (71, 'Dr.Oetker', 'Zahar Vanilat Bourbon 10bucati x 8g', 32.05);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (72, 'Dr.Oetker', 'Zahar Vanilinat 20bucati x 8g', 12.82);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (73, 'Dr.Oetker', 'Mix pentru Glazura cu Gust de Caramel 2bucati x 100g', 7.7);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (74, 'Dr.Oetker', 'Decor Mix pentru Glazura cu Gust de Ciocolata 2bucati x 100g', 7.7);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (75, 'Alpin', '57 Foi Cremes 400g', 16.36);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (76, 'Meggle', 'Frisca Lichida Creme Patisserie fara Lactoza 200ml', 8.62);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (77, 'Dr.Oetker', 'Lapte Praf Integral 380g', 26.03);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (78, 'Dr.Oetker', 'Drojdie uscata instant 3bucati x 7g', 5.61);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (79, 'Firesco', 'Blat De Tort Simplu 400G', 28.83);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (80, 'Boromir', 'Foi de Pandispan 380g', 18.18);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (81, 'Dr.Oetker', 'Mix pentru Budinca Premium cu Ciocolata si Cocos 30g', 4.13);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (82, 'Dr.Oetker', 'Mix pentru Budinca Premium cu Vanilie Si Capsuni 35g', 3.98);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (83, 'Decocino', 'Fondant Auriu 250g', 28.07);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (84, 'Orlando''s', 'Aroma de Vanilie 250ml', 20.28);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (85, 'Orlando''s', 'Fancy Sare de Lamaie 500g', 13.43);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (86, 'Sano', 'Vita Fulgi De Drojdie Uscata Inactiva 100g', 16.72);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (87, 'Orlando''s', 'Maestro Fulgi Cocos Mozaic 100g', 3.85);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (88, 'Dr.Oetker', 'Zahar Pudra cu Aroma de Vanilie 1Kg', 26.44);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (89, 'Pakmaya', 'Drojdie Proaspata 100g', 3.59);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (90, 'Pakmaya', 'Drojdie Instant 7g', 1.75);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (91, 'Orlando’s', 'Fancy Nucă de Cocos Fulgi 50g', 2.17);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (92, 'Dr.Oetker', 'Zahar Vanilat Bourbon 8g', 3.58);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (93, 'Dr.Oetker', 'Sare de Lamaie 8g', 0.65);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (94, 'Dr.Oetker', 'Original Praf de Budincă cu Gust de Ciocolată și Alune de Padure 48g', 2.45);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (95, 'Dr.Oetker', 'Mix pentru Clatite 950g', 13.29);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (96, 'Dr.Oetker', 'Praf de Spuma pentru Deserturi cu Gust de Frisca 48g', 3.85);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (97, 'Dr.Oetker', 'Praf de Spuma pentru Deserturi cu Gust de Frisca si Capsuni 48g', 3.85);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (98, 'Dr.Oetker', 'Ornamente pentru Prajituri Flori de Zahar 30g', 7.26);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (99, 'Dr.Oetker', 'Ornamente pentru Prajituri Delicii Perlate 30g', 6.15);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (100, 'Dr.Oetker', 'Original Pudding cu Gust de Ciocolata si Rom 50g', 2.45);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (101, 'Dr.Oetker', 'Mix pentru Gogosi 507g', 12.59);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (102, 'Dr.Oetker', 'Glazura Duo cu Gust de Ciocolata Neagra/Alba 100g', 9.88);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (103, 'Dr.Oetker', 'Gelatina Fin Maruntita Alba 10g', 2.3);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (104, 'Dr.Oetker', 'Fondant Pasta de Zahar Modelabila Alb 250g', 15.18);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (105, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Cafea/Brandy 50g', 5.72);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (106, 'Dr.Oetker', 'Colorant Alimentar Albastru 10g', 8.1);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (107, 'Dr.Oetker', 'Professional Cacao Neagra cu Unt de Cacao 22% 500g', 44.09);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (108, 'Dr.Oetker', 'Cacao cu Continut redus de Grasime 50g', 5.16);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (109, 'Dr.Oetker', 'Mix pentru Budinca Premium cu Caramel 38g', 3.71);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (110, 'Dr.Oetker', 'Mix pentru Budinca Premium cu Cafea 38g', 3.71);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (111, 'Dr.Oetker', 'Amoniu pentru Prajituri 7g', 0.69);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (112, 'Cio', 'Esenta de Vanilie 25ml', 1.69);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (113, 'Boromir', 'Blat de Tort Simplu 400g', 22.8);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (114, 'Aristocrat', 'Lapte Praf 400G', 21.81);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (115, 'Aristocrat', 'Lapte Praf 250G', 13.66);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (116, 'Decocino', 'Fondant Argintiu 250g', 26.67);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (117, 'Decocino', 'Flori din Napolitane Comestibile Albe si Roz 2g', 15.04);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (118, 'Decocino', 'Fluturi Comestibili din Aluat Subtire de Napolitana 12bucati x 4g', 22.19);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (119, 'Dekoback', 'Trandafiri Albi Comestibili 3g', 20.98);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (120, 'Decocino', 'Spray de Gresare pentru Tavi de Copt 200g', 35.49);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (121, 'Dekoback', 'Markere Comestibile pentru Decorat Alimente 8g', 26.17);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (122, 'Dekoback', 'Fondant Rosu 250g', 22.52);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (123, 'Decocino', 'Flori din Napolitane Comestibile Alb si Albastru 2g', 15.04);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (124, 'Dr.Oetker', 'Esenta de Migdale 38ml', 6.7);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (125, 'Dr.Oetker', 'Esenta de Lamaie 38ml', 6.7);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (126, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Lamaie 50g', 5.72);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (127, 'Daily', 'Nuancer Colorant Alimentar Rosu 25ml', 2.59);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (128, 'Daily', 'Nuancer Colorant Alimentar Galben 25ml', 2.59);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (129, 'Daily', 'Nuancer Colorant Alimentar Albastru 25ml', 2.59);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (130, 'Cremolinea', 'Sos de Ciocolata 250g', 11.46);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (131, 'Cremolinea', 'Sos de Capsuni 250g', 11.46);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (132, 'Cremolinea', 'Aroma de Rom 500g', 20.28);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (133, 'Cremolinea', 'Topping cu Amarena Cherry 1Kg', 25.97);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (134, 'Dr.Oetker', 'Colorant Alimentar Negru 10g', 8.1);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (135, 'Dr.Oetker', 'Colorant Alimentar Violet 10g', 8.1);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (136, 'Colonial', 'Gelatina Alimentara 500g', 46.84);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (137, 'Dr.Oetker', 'Mix pentru Waffles 150g', 5.25);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (138, 'Dr.Oetker', 'Paula Mix pentru Prajitura 388g', 21.63);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (139, 'Dr.Oetker', 'Mix pentru Turta Dulce 438g', 19.67);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (140, 'Dr.Oetker', 'Finesse Coaja de Portocala Razuita cu Dextroza si Aroma 3bucati x 6g', 10.07);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (141, 'Dr.Oetker', 'Mix pentru Desert cu Gust de Lamaie si de Cheesecake 93g', 7.4);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (142, 'Orlando''s', 'Fancy Fulgi de Nuca de Cocos Decor Verde 100g', 3.85);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (143, 'Orlando''s', 'Maestro Fulgi Cocos Rosu 100g', 3.85);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (144, 'Dr.Oetker', 'Gustin Amidon Alimentar din Porumb 30g', 1.1);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (145, 'Colin', 'Daily Amidon din Porumb Alimentar 250g', 4.69);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (146, 'Pakmaya', 'Drojdie pentru Cozonac 15g', 3.01);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (147, 'Dr.Oetker', 'Drojdie Uscata 7g', 1.87);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (148, 'Ruf', 'Esenta de Rom 4fiole x 2ml', 4.47);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (149, 'Dr.Oetker', 'Esenta de Rom 20fiole x 2ml', 32.81);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (150, 'Adazia', 'Esenta de Vanilie 25ml', 1.3);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (151, 'Adazia', 'Esenta de Rom 4bucati x 25ml', 5.31);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (152, 'Adazia', 'Esenta de Rom 25ml', 1.3);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (153, 'Colin', 'Daily Aroma de Rom 250ml', 10.49);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (154, 'Colin', 'Daily Aroma de Vanilie 250ml', 10.49);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (155, 'TopSeller', 'Cacao Pudra cu continut Redus de Grasime 500g', 19.62);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (156, 'TopSeller', 'Cacao Pudra cu continut Redus de Grasime 100g', 4.28);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (157, 'Decocino', 'Napolitane Unicorn 9g', 23.36);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (158, 'Alex', 'Casa Prajiturilor Praf de Copt 5bucati x 8g', 2.67);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (159, 'Cosmin', 'Zahar Vanilinat 6bucati x 8g', 2.29);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (160, 'Cosmin', 'Praf de Copt 6bucati x 10g', 2.29);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (161, 'Colin', 'Daily Sare de Lamaie 30g', 1.75);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (162, 'Colin', 'Daily Gelatina Universala 75g', 7.97);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (163, 'Dr.Oetker', 'Gelatina Fin Maruntita Alba 10bucati x 10g', 20.6);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (164, 'Dr.Oetker', 'Mix de Budinca cu Gust de Vanilie 1Kg', 23.36);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (165, 'Kotanyi', 'Rasnita Amestec de Zahar Aromatizat cu Pernite de Cacao 11% 63g', 20.57);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (166, 'Orlando''s', 'Decor Betisoare Colorate din Zahar 40g', 1.54);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (167, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Lamaie 3bucati x 50g', 19.69);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (168, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Ciocolata Trufe si Rom 3bucati x 57g', 19.69);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (169, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Vanilie 3bucati x 50g', 16.75);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (170, 'Ruf', 'Budinca cu Aroma de Vanilie Pudrat 5bucati x 37g', 4.58);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (171, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Capsuni si Unt 140g', 9.88);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (172, 'Dr.Oetker', 'Mix pentru Mini Checuri cu Fulgi de Ciocolata Junior Chef 230g', 19.73);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (173, 'Dr.Oetker', 'Mix pentru Prajitura cu Branza 510g', 14.54);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (174, 'Dr.Oetker', 'Mix pentru Tarta cu Ciocolata 320g', 21.63);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (175, 'Dr.Oetker', 'Mix pentru Cozonac fara Framantari 677g', 21.63);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (176, 'Dr.Oetker', 'Mix pentru Saratele sau Covrigei 350g', 12.16);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (177, 'Dr.Oetker', 'Professional Cacao cu Continut redus de Grasime 1Kg', 69.98);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (178, 'Monin', 'Topping de Caramel 500ml', 48.15);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (179, 'Pakmaya', 'Drojdie Proaspata 5bucati x 50g', 10.15);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (180, 'Pakmaya', 'Drojdie cu Suflet Romanesc 10bucati x 25g', 11.9);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (181, 'Bravo', 'Drojdie Proaspata 5bucati x 50g', 15.03);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (182, 'Montare', 'D’oro Frisca Spray 20% Grasime 250g', 15.49);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (183, 'Meggle', 'Frisca Creme Patisserie Spray 250ml', 15.19);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (184, 'Meggle', 'Frisca Vanilata si Indulcita Spray 250ml', 19.06);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (185, 'President', 'Frisca Vanilata si Indulcita 20% Grasime UHT 250g', 23.53);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (186, 'Hulala', 'Crema Vegetala fara Lactoza 1L', 25.36);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (187, 'Montare', 'D’oro Produs pentru Mixare cu Zahar pe baza de Grasimi Vegetale 26% UHT 1L', 26.71);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (188, 'El', 'Maestro Frisca Vegetala Crema Decor 200ml', 7.11);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (189, 'Meggle', 'Frisca Lichida Creme Patisserie 1L', 26.72);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (190, 'Meggle', 'Frisca Lichida Creme Patisserie 500ml', 18.4);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (191, 'Raraul', 'Lapte Praf Integral 26% Grasime 2kg', 190.41);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (192, 'Raraul', 'Lapte Praf Integral 26% Grasime 500g', 50.63);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (193, 'Firesco', 'Blat De Tort Cu Cacao 400G', 28.96);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (194, 'Boromir', 'Foi de Pandispan cu Cacao 380g', 18.18);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (195, 'Dr.Oetker', 'Mix pentru Salam de Biscuiti 176g', 9.58);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (196, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Lamaie si Unt 140g', 9.88);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (197, 'Colin', 'Daily Ornament Cacao 300G', 10.49);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (198, 'Dr.Oetker', 'Professional Perle Crocante 450g', 79.23);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (199, 'Orlando''s', 'Aroma de Migdale 250g', 21.12);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (200, 'Orlando''s', 'Aroma de Lamaie 250g', 21.12);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (201, 'Belvedere', 'Ornamente Paiete Albe 350g', 25.47);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (202, 'Belvedere', 'Ornamente Paiete Amarui 350g', 25.47);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (203, 'Colin', 'Daily Ornament Desert 50G', 3.29);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (204, 'Orlando''s', 'Maestro Decor Betisoare cu Gust de Cacao din Zahar 40g', 1.54);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (205, 'Colin', 'Daily Ornamente Asortate 80G', 3.63);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (206, 'Colin', 'Daily Mini Ornamente Cacao Cu Aroma Ciocolata 25G', 2.22);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (207, 'Coseli', 'Zahar Vanilinat 50g', 2.59);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (208, 'Dr.Oetker', 'Professional Zahar Vanilinat 1Kg', 40.59);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (209, 'Dr.Oetker', 'Pastaie de Vanilie 1,5g', 36.1);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (210, 'Schmidt', 'Pudra de Cacao 20-21% Grasime 125g', 14.97);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (211, 'Nestle', 'Docello Sos pentru Desert cu Ciocolata 1Kg', 38.99);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (212, 'Crinolina', 'Tableta Alba 1Kg', 45.9);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (213, 'Nutco', 'Fresh Fulgi de Nuca de Cocos Cruda 300g', 9.92);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (214, 'Colonial', 'Fulgi de Nuca de Cocos 100g', 3.02);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (215, 'Orlando''s', 'Fancy Fulgi de Nuca de Cocos Decor Albastru 100g', 3.85);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (216, 'Cremolinea', 'Topping Fistic 1Kg', 38.35);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (217, 'Dr.Oetker', 'Professional Sos pentru Desert cu Gust de Fructe de Padure 1kg', 56.35);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (218, 'Nestle', 'Docello Sos pentru Desert cu Caramel 1Kg', 38.72);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (219, 'Orlando''s', 'Fancy Fulgi de Nuca de Cocos Decor Galben 100g', 3.85);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (220, 'Hulala', '0,2L', 8.08);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (221, 'Dr.Oetker', 'Mix pentru Glazura din Jeleu Rosu 7g', 1.84);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (222, 'Dr.Oetker', 'Topping pentru Desert cu Aroma de Capsuni 200g', 16.18);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (223, 'Dr.Oetker', 'Mix pentru Prajitura Musuroi de Cartita Clasic 350g', 20.79);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (224, 'Dr.Oetker', 'Mix pentru Tort Diplomat 430g', 28.35);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (225, 'Dr.Oetker', 'Praf de Copt cu Sofran 17g', 2.37);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (226, 'Dr.Oetker', 'Mix pentru Prajitura Paradis Tropical cu Ananas 287g', 19.73);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (227, 'Dr.Oetker', 'Mix pentru Papanasi 260g', 12.59);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (228, 'Dr.Oetker', 'Ornamente cu Gust de Ciocolata 80g', 7.26);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (229, 'Dr.Oetker', 'Ornamente pentru Prajituri Dragoste in Tonuri de Roz 30g', 6.15);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (230, 'Dr.Oetker', 'Ornamente pentru Prajituri Confetti Veselie 30g', 6.15);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (231, 'Dr.Oetker', 'Ornamente Colorate din Zahar 80g', 7.26);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (232, 'Dr.Oetker', 'Ornamente pentru Prajituri Bobite Dulci 30g', 3.48);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (233, 'Dr.Oetker', 'Original Pudding Praf de Budinca cu Gust de Ciocolata 50g', 2.45);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (234, 'Dr.Oetker', 'Original Pudding Praf de Budinca cu Gust de Caramel 40g', 2.14);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (235, 'Dr.Oetker', 'Mix pentru Orez Desert cu Gust de Vanilie 124g', 10.01);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (236, 'Dr.Oetker', 'Orez Desert cu Mar si Scortisoara 124g', 10.01);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (237, 'Dr.Oetker', 'Nuca de Cocos Fulgi 80g', 7.26);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (238, 'Dr.Oetker', 'Mix pentru Brioșe Muffins cu Gust de Vanilie 900g', 23.46);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (239, 'Dr.Oetker', 'Mix pentru Briose Muffins cu Gust de Vanilie 340g', 17.56);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (240, 'Dr.Oetker', 'Mix pentru Briose Muffins cu Gust de Ciocolata 295g', 17.56);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (241, 'Dr.Oetker', 'Mix pentru Chec cu Fulgi de Ciocolata 380g', 12.52);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (242, 'Dr.Oetker', 'Mix pentru Eclere 433g', 20.0);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (243, 'Dr.Oetker', 'Intaritor de Frisca 500g', 28.83);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (244, 'Dr.Oetker', 'Glazura cu Gust de Ciocolata Neagra 100g', 9.88);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (245, 'Dr.Oetker', 'Gelatina Fin Maruntita Alba 500g', 84.0);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (246, 'Dr.Oetker', 'Foi de Gelatina 10g', 8.61);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (247, 'Dr.Oetker', 'Esenta de Lamaie 4fiole x 2ml', 6.7);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (248, 'Dr.Oetker', 'Esenta de Migdale 4fiole x 2ml', 6.7);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (249, 'Dr.Oetker', 'Mix pentru Desert Creme Ole cu Gust de Ciocolata 84g', 5.68);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (250, 'Dr.Oetker', 'Mix pentru Glazura din Jeleu 8g', 1.84);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (251, 'Dr.Oetker', 'Mix pentru Crema pentru Tarte cu Fructe 55g', 3.35);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (252, 'Dr.Oetker', 'Mix pentru Clatite Pufoase cu Gust de Vanilie 150g', 4.55);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (253, 'Dr.Oetker', 'Mix pentru Clatite Pufoase cu Fulgi de Ciocolata 160g', 4.55);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (254, 'Dr.Oetker', 'Bicarbonat de Sodiu Alimentar 50g', 1.6);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (255, 'Coseli', 'Praf de Copt 10g', 0.68);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (256, 'Cio', 'Nuca de Cocos 500g', 30.6);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (257, 'Alex', 'Esenta Vanilie 10ml', 1.25);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (258, 'Alex', 'Esenta Rom 10ml', 1.25);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (259, 'Alex', 'Casa Prajiturilor Bicarbonat de Sodiu 50g', 1.19);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (260, 'Belvedere', 'Picaturi Termostabile din Cacao 300g', 18.13);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (261, 'Dr.Oetker', 'Lapte Praf Integral 26% grasime 250g', 20.98);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (262, 'Olympia', 'Topping cu Aroma de Fructe de Padure 500g', 21.48);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (263, 'Olympia', 'Topping cu Aroma de Ciocolata 500g', 21.48);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (264, 'Belvedere', 'Ornamente Picaturi Termostabile 650g', 30.03);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (265, 'Belvedere', 'Banuti Cacao 600g', 35.07);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (266, 'Cremolinea', 'Sos de Caramel 250g', 11.46);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (267, 'Cremolinea', 'Topping Limone 1Kg', 42.49);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (268, 'Cremolinea', 'Topping cu Aroma de Capsuni 1Kg', 24.99);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (269, 'Cremolinea', 'Topping cu Aroma de Vanilie 1Kg', 23.93);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (270, 'Cremolinea', 'Topping cu Menta Strong 1Kg', 46.04);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (271, 'Cremolinea', 'Topping cu Aroma de Ciocolata 1Kg', 23.93);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (272, 'Cremolinea', 'Topping cu Zmeura 1Kg', 29.19);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (273, 'Cremolinea', 'Topping cu Fructe de Padure 1Kg', 27.56);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (274, 'Intencion', 'Cacao Bio 70% 250g', 34.99);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (275, 'Dr.Oetker', 'Mix pentru Desert cu Gust de Banane si Ciocolata 110g', 7.4);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (276, 'Olympia', 'Topping cu Aroma de Capsuni 500g', 21.48);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (277, 'Olympia', 'Topping cu Aroma de Caramel 500g', 21.48);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (278, 'Ruf', 'Esenta de Vanilie 4fiole x 2ml', 4.47);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (279, 'Sano', 'Vita Tapioca Perle 500g', 18.97);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (280, 'Colin', 'Daily Amidon din Porumb Alimentar 100g', 2.74);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (281, 'Dr.Oetker', 'Amidon Alimentar din Cartofi 75g', 2.51);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (282, 'Colin', 'Daily Bicarbonat de Sodiu Alimentar 150g', 2.79);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (283, 'Dr.Oetker', 'Bicarbonat de Sodiu Alimentar cu Aroma de Lamaie 30g', 1.67);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (284, 'Ruf', 'Drojdie Uscata 3bucati x 7g', 4.39);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (285, 'Ruf', 'Esenta de Rom 16fiole x 2ml', 17.28);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (286, 'Ruf', 'Esenta de Lamaie 4fiole x 2ml', 4.47);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (287, 'Dr.Oetker', 'Esenta de Migdale 20fiole x 2ml', 32.81);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (288, 'Dr.Oetker', 'Esenta de Lamaie 20fiole x 2ml', 32.81);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (289, 'Dr.Oetker', 'Sare de Lamaie 20bucati x 8g', 11.9);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (290, 'TopSeller', 'Cacao Pudra cu continut Redus de Grasime 250g', 9.5);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (291, 'TopSeller', 'Cacao Pudra la Cutie cu continut Redus de Grasime 100g', 4.69);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (292, 'TopSeller', 'Cacao Pudra la Plic cu continut Redus de Grasime 50g', 2.06);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (293, 'TopSeller', 'Cacao Pudra cu continut Redus de Grasime 1Kg', 33.45);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (294, 'Alex', 'Casa Prajiturilor Zahar Vanilinat 7g', 0.57);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (295, 'Alex', 'Casa Prajiturilor Zahar Vanilinat 6bucati x 7g', 2.67);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (296, 'Dr.Oetker', 'Mix pentru Glazura din Jeleu Rosu 10bucati x 7g', 18.01);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (297, 'Dr.Oetker', 'Mix pentru Glazura din Jeleu 10bucati x 8g', 18.01);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (298, 'Dr.Oetker', 'Mix pentru Crema Desert cu Ciocolata 1Kg', 44.59);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (299, 'Dr.Oetker', 'Mix de Budinca cu Gust de Ciocolata 1Kg', 25.75);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (300, 'Dr.Oetker', 'Mix pentru Spuma pentru Deserturi cu Gust de Frisca 1Kg', 51.36);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (301, 'Dr.Oetker', 'Bicarbonat de Sodiu 1.5Kg', 30.09);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (302, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Ciocolata 3bucati x 55g', 19.69);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (303, 'Colin', 'Daily Praf pentru Preparat Desertul Panna Cotta 60g', 2.64);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (304, 'Dr.Oetker', 'Praf de Spuma pentru Deserturi cu Gust de Frisca si de Ciocolata 60g', 4.04);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (305, 'Dr.Oetker', 'Mix Praf de Spuma pentru Deserturi cu Gust de Frisca Light 45g', 4.13);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (306, 'Ruf', 'Praf de Spuma cu Gust de Frisca 2plicuri x 40g', 7.56);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (307, 'Ruf', 'Praf pentru Budinca cu Gust de Ciocolata 3bucati x 41g', 4.39);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (308, 'Dr.Oetker', 'Mix pentru Prajitura cu Cacao si Fulgi de Ciocolata Brownie 480g', 17.56);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (309, 'Nick', 'Amestec Gata pentru Clatite 400g', 23.23);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (310, 'Monin', 'Topping de Ciocolata cu Alune 500ml', 48.15);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (311, 'Dr.Oetker', 'Topping pentru Desert cu Aroma de Fructe de Padure 200g', 16.18);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (312, 'Dr.', 'Oetker Topping pentru Desert cu Aroma de Afine 200g', 16.18);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (313, 'Elle&Vire', 'Frisca UHT Spray 27% Grasime 250g', 29.76);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (314, 'Voila', 'Crema Indulcita pentru Desert 1L', 25.79);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (315, 'Voila', 'Crema Indulcita pentru Desert 200ml', 7.54);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (316, 'Montare', 'D’oro Produs pentru Mixare cu Zahar pe baza de Grasimi Vegetale 26% UHT 500ml', 16.06);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (317, 'Montare', 'D’oro Produs pentru Mixare cu Zahar pe baza de Grasimi Vegetale 26% UHT 200ml', 8.24);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (318, 'Boromir', 'Blat de Tort cu Cacao 400g', 22.8);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (319, 'Colin', 'Daily Gelfixant 20G', 2.03);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (320, 'Dr.Oetker', 'Mix pentru Glazura din Jeleu cu Gust de Fructe de Padure 8g', 1.8);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (321, 'Colin', 'Daily Ornament Multicolor 50G', 3.06);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (322, 'Dr.Oetker', 'Professional Rulouri Zebra de Ciocolata 400g', 106.67);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (323, 'Dr.Oetker', 'Professional Fulgi de Ciocolata 700g', 77.36);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (324, 'Colin', 'Daily Ornament Asortat 300G', 9.88);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (325, 'Colin', 'Daily Gelatina Universala 15g', 1.67);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (326, 'Colin', 'Daily Ornamente Mini Cip 25G', 2.17);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (327, 'Dr.Oetker', 'Mix pentru Crema Cremsnit 2Kg', 60.19);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (328, 'Crinolina', 'Tableta Vanilie 400G', 22.75);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (329, 'Dr.Oetker', 'Mix pentru Mini Prajituri Chec Burger cu Blat de Cacao si Crema cu Aroma de Biscuiti si Vanilie 266g', 13.84);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (330, 'Crinolina', 'Tableta Menaj Vanilie 100G', 5.81);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (331, 'Schwartau', 'Sos Desert cu Caramel 125ml', 15.95);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (332, 'Schwartau', 'Sos Desert cu Ciocolata 125ml', 15.52);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (333, 'Crinolina', 'Tableta Lapte 1Kg', 45.9);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (334, 'Colin', 'Daily Zahar Brun din Trestie Pudra 300g', 8.73);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (335, 'Carte', 'D''or Sabor Sos Dulce de Caramel pentru Decor 1Kg', 59.48);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (336, 'Carte', 'D''or Professional Sabor Sos Dulce de Cacao pentru Decor 1Kg', 59.48);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (337, 'Cremolinea', 'Topping Dracula''S Red Fruits 1Kg', 49.49);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (338, 'Dr.Oetker', 'Professional Sos pentru Desert cu Gust de Ciocolata 1Kg', 56.35);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (339, 'Orlando''s', 'Fancy Fulgi de Nuca de Cocos Decor Natur 250g', 9.66);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (340, 'Dr.Oetker', 'Zahar cu Scortisoara 8g', 0.73);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (341, 'Dr.Oetker', 'Zahar cu Aroma de Rom 8g', 0.73);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (342, 'Dr.Oetker', 'Topping pentru Desert cu Aroma de Ciocolata 200g', 16.18);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (343, 'Dr.Oetker', 'Topping pentru Desert cu Aroma de Caramel 200g', 16.18);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (344, 'Dr.Oetker', 'Sare De Lamaie 500g', 22.12);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (345, 'Dr.Oetker', 'Prajitura Tort de Ciocolata 550g', 19.73);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (346, 'Dr.Oetker', 'Mix pentru Prajitura Tiramisu 370g', 19.73);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (347, 'Dr.Oetker', 'Mix pentru Prajitura Profiterol 240g', 19.73);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (348, 'Dr.Oetker', 'Mix pentru Desert Creme Ole cu Gust de Vanilie 80g', 5.68);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (349, 'Dr.Oetker', 'Mix pentru Briose cu Cacao 795g', 23.46);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (350, 'Dr.Oetker', 'Mix pentru Prajitura Melba cu Piersici 252g', 19.73);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (351, 'Dr.Oetker', 'Foi de Gelatina 500g', 154.9);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (352, 'Dr.Oetker', 'Mix pentru Desert Crema Tiramisu 60g', 6.29);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (353, 'Cio', 'Nuca de Cocos 100g', 5.68);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (354, 'Alex', 'Casa Prajiturilor Zahar Pudra 75G', 2.3);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (355, 'Raraul', 'Lapte Praf Integral 26% Grasime 250g', 26.16);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (356, 'Dr.Oetker', 'Esenta de Rom 38ml', 6.7);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (357, 'Dr.Oetker', 'Esenta de Vanilie de Madagascar cu Seminte de Vanilie 35ml', 22.62);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (358, 'Italmill', 'Drojdie Uscata 500g', 33.58);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (359, 'Cosmin', 'Praf de Copt 10g', 0.46);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (360, 'Coseli', 'Esenta de Rom 25ml', 3.27);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (361, 'Pakmaya', 'Drojdie Uscata Activa 100g', 11.97);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (362, 'Dr.Oetker', 'Esenta de Vanilie 4bucati x 38ml', 24.6);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (363, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Vanilie si Unt 140g', 9.88);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (364, 'Dr.Oetker', 'Intaritor de Frisca 8g', 1.33);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (365, 'Dr.Oetker', 'Esenta de Vanilie 4fiole x 2ml', 6.7);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (366, 'Dr.Oetker', 'Colorant Alimentar Verde 10g', 8.1);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (367, 'Coseli', 'Zahar Vanilat 8G', 0.64);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (368, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Ciocolata 55g', 5.72);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (369, 'Dr.Oetker', 'Finesse Coaja de Lamaie Razuita cu Dextroza si Aroma Naturala 3bucati x 6g', 10.07);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (370, 'Dr.Oetker', 'Esenta de Vanilie de Madagascar 35ml', 22.62);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (371, 'Dr.Oetker', 'Foi pentru Prajituri Subtiri 430g', 25.33);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (372, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Ciocolata si Unt 155g', 9.88);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (373, 'Alex', 'Casa Prajiturilor Zahar Vanilinat Pudra 50g', 1.95);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (374, 'Dr.Oetker', 'Professional Sos pentru Desert cu Gust de Toffee 1Kg', 56.35);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (375, 'Dr.Oetker', 'Original Pudding Praf de Budinca cu Gust de Frisca 40g', 2.03);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (376, 'Dr.Oetker', 'Original Pudding Praf de Budinca cu Gust de Capsuni 40g', 2.14);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (377, 'Dr.Oetker', 'Mix pentru Crema pentru Prajituri cu Gust de Vanilie 50g', 5.72);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (378, 'Secretul', 'Bunicii Drojdie Proaspata 5bucati x 50g', 3.32);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (379, 'Pakmaya', 'Drojdie Proaspata 50g', 2.06);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (380, 'Podravka', 'Dolcela Drojdie Uscata Instant 7g', 0.68);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (381, 'Dr.Oetker', 'Esenta de Vanilie 20fiole x 2ml', 32.81);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (382, 'Dr.Oetker', 'Esenta de Rom 4bucati x 38ml', 24.6);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (383, 'Dr.Oetker', 'Mix pentru Blat de Tarte 350g', 12.16);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (384, 'Dr.Oetker', 'Mix pentru Fursecuri sau Biscuiti 375g', 12.16);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (385, 'Dr.Oetker', 'Mix pentru Pandispan sau Blat de Tort 330g', 12.16);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (386, 'Dr.Oetker', 'Foi pentru Prajituri Simple 440g', 25.33);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (387, 'Dr.Oetker', 'Mix pentru Crema cu Gust de Vanilie 1.1Kg', 30.78);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (388, 'Dr.Oetker', 'Professional Sos pentru Desert cu Gust de Capsuni 1Kg', 56.35);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (389, 'Dr.Oetker', 'Decor Mix pentru Glazura cu Gust de Ciocolata 100g', 3.85);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (390, 'Dr.Oetker', 'Mix pentru Crema de Zahar Ars 104g', 6.37);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (391, 'Coseli', 'Esenta Migdale 25ml', 3.35);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (392, 'Cio', 'Esenta de Rom 25ml', 1.69);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (393, 'Alex', 'Esenta Lamaie 10ml', 1.25);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (394, 'Decocino', 'Decoratiune de Zahar Unicorn 81g', 33.53);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (395, 'Ruf', 'Drojdie Uscata 7g', 1.53);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (396, 'TopSeller', 'Cacao Pudra la Cutie cu continut Redus de Grasime 50g', 2.7);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (397, 'Alex', 'Casa Prajiturilor Praf de Copt 8g', 0.57);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (398, 'Dr.Oetker', 'Mix pentru Crema Desert cu Gust de Vanilie 1Kg', 44.59);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (399, 'Dr.Oetker', 'Mix pentru Savarine 337g', 20.1);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (400, 'Dr.Oetker', 'Mix pentru Desert Musuroi de Cartita 110g', 7.06);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (401, 'Dr.Oetker', 'Mix pentru Glazura cu Gust de Caramel 100g', 3.85);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (402, 'Dr.Oetker', 'Mix pentru Desert Creme Ole cu Gust de Capsuni 75g', 5.68);
+insert into ingrediente (id_ingredient, producator, nume, pret)
+values (403, 'Cosmin', 'Zahar Vanilinat 8g', 0.46);

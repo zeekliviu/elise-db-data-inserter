@@ -1,210 +1,210 @@
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (0, 4825, null, 'Stanciu Romi Codrin');
+values (0, 4286, null, 'Sirbu Stela Aida');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (1, 4641, 9, 'Stoian Septimiu Gelu');
+values (1, 4179, 4, 'Radoi Ladislau Iosif');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (2, 4160, 0, 'Stoica Paulica Marinela');
+values (2, 4152, 6, 'Petrescu Cipriana Tamara');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (3, 4498, 0, 'Iancu Bartolomeu');
+values (3, 4194, 4, 'Anghel Grigoras Emanuil');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (4, 4641, 0, 'Dinu Elisabeta');
+values (4, 4060, 0, 'Mihaila Arina');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (5, 4732, 0, 'Ivascu Aureliana');
+values (5, 4204, 0, 'Manolache Adelaida');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (6, 4596, 0, 'Veres Tincuta');
+values (6, 4192, 0, 'Tudose Horea');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (7, 4678, 0, 'Mazilu Marcheta Tania');
+values (7, 4213, 4, 'Mihalache Rita');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (8, 4149, 0, 'Dinca Cristea Cantemir');
+values (8, 4220, 4, 'Necula Anisoara Aida');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (9, 4603, 0, 'Nicolescu Bebe Mircea');
+values (9, 4268, 4, 'Neamtu Amanda Rafila');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (10, 4703, 4, 'Iosif Emanuil Theodor');
+values (10, 4185, 3, 'Panait Marcu Costin');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (11, 4760, 6, 'Petcu Casandra');
+values (11, 4269, 4, 'Stanciu Jean');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (12, 4177, 4, 'Dinu Veta');
+values (12, 4272, 5, 'Solomon Daniel');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (13, 4099, 2, 'Toader Susana Aurelia');
+values (13, 4140, 5, 'Tudose Lorena Lavinia');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (14, 4796, 9, 'Dinu Florenta');
+values (14, 4263, 3, 'Popovici Marcheta Lucia');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (15, 4056, 4, 'Dinu Mirona Malvina');
+values (15, 4092, 5, 'Rotaru Valentin');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (16, 4482, 2, 'Popovici Irma Clara');
+values (16, 4208, 6, 'Anton Dumitrana Silvana');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (17, 4788, 2, 'Gal Paul Atanasio');
+values (17, 4172, 5, 'Anterior Violeta');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (18, 4648, 6, 'Sima Florin Ducu');
+values (18, 4195, 6, 'Dragan Violeta Francesca');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (19, 4183, 4, 'Varga Denisa');
+values (19, 4257, 3, 'Molnar Lorin');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (20, 2204, 12, 'Niculescu Mioara');
+values (20, 2742, 13, 'Ilie Vasilica Trandafir');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (21, 2287, 14, 'Banica Nelu');
+values (21, 3284, 6, 'Ichim Iulia');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (22, 2853, 9, 'Pintilie Narcisa');
+values (22, 2018, 6, 'Moga Andrei');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (23, 2108, 18, 'Petre Dumitra');
+values (23, 3117, 5, 'Mircea Melisa');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (24, 3086, 4, 'Stroe Ruxandra');
+values (24, 2899, 4, 'Mateescu Eliza');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (25, 3243, 14, 'Ciocan Lucretiu');
+values (25, 2757, 15, 'Luca Paula Alina');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (26, 2201, 18, 'Constantin Achim');
+values (26, 2785, 2, 'Oancea Sabrina');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (27, 3308, 7, 'Paduraru Mina');
+values (27, 3269, 11, 'Ene Sever Aristide');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (28, 2787, 5, 'Maftei Gicu');
+values (28, 2065, 3, 'Nitu Paraschiva Ivana');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (29, 2545, 16, 'Bratu Agnos');
+values (29, 3139, 1, 'Ciocan Safina');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (30, 2372, 5, 'Tamas Pavel');
+values (30, 3076, 9, 'Grigoras Madalin Iliuta');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (31, 2009, 19, 'Ene Viorela');
+values (31, 2177, 9, 'Vaduva Antoniu');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (32, 2366, 9, 'Cristea Trandafir');
+values (32, 3268, 2, 'Tudorache Avram Nicodim');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (33, 3091, 14, 'Biro Anabela');
+values (33, 3216, 12, 'Micu Veniamin Narcis');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (34, 3430, 5, 'Marian Iosefina');
+values (34, 2547, 13, 'Tomescu Nicuta Achim');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (35, 3141, 8, 'Negrea Mariana');
+values (35, 3059, 14, 'Morar Oliviu');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (36, 2253, 3, 'Draghici Aristita');
+values (36, 2139, 11, 'Tamas Antoniu Filip');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (37, 2036, 15, 'Dinca Cornel');
+values (37, 3027, 10, 'Gheorghiu Mugur Simi');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (38, 3347, 14, 'Groza Eremia');
+values (38, 3464, 3, 'Coman Daiana Corina');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (39, 2460, 10, 'Tamas Ileana');
+values (39, 3035, 2, 'Ganea Betina Aurora');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (40, 2378, 6, 'Istrate Maria');
+values (40, 3136, 18, 'Maxim Artemisa Svetlana');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (41, 2078, 2, 'Tudose Francesca');
+values (41, 2526, 3, 'Fratila Cristobal');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (42, 2177, 2, 'Cretu Cecilia');
+values (42, 2672, 15, 'Oltean Moise');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (43, 3463, 10, 'Stefan Axenia');
+values (43, 2445, 19, 'Dobre Adelina Aurora');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (44, 2316, 4, 'Iorga Toma');
+values (44, 3284, 12, 'Ciobanu Livia');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (45, 2356, 3, 'Morar Florica');
+values (45, 2439, 19, 'Simion Vasile');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (46, 3065, 4, 'Dumitriu Tamara');
+values (46, 2741, 1, 'Giurgiu Teofil Iustin');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (47, 2966, 12, 'Chirita Oliviu');
+values (47, 3075, 11, 'Badea Fabian Iancu');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (48, 2455, 12, 'Neamtu Luiza');
+values (48, 2346, 18, 'Constantin Andreea');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (49, 3239, 4, 'Toth Vasilica');
+values (49, 2397, 17, 'Negoita Susana Casiana');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (50, 2831, 14, 'Radu Ariadna');
+values (50, 2813, 12, 'Aldea Leonidas Dan');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (51, 3296, 8, 'Biro Cosmin');
+values (51, 3229, 9, 'Morar Laurentia Filomela');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (52, 2823, 3, 'Anterior Stefan');
+values (52, 2499, 8, 'Popovici Norman');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (53, 2660, 7, 'Munteanu Zaharia');
+values (53, 3256, 18, 'Paraschiv Eric');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (54, 2642, 5, 'Stroe Petru');
+values (54, 2362, 11, 'Nagy Monalisa');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (55, 2989, 19, 'Petrescu Narcisa');
+values (55, 2120, 1, 'Negru Dumitru Sinica');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (56, 3219, 14, 'Barbu Melina');
+values (56, 2653, 8, 'Boboc Luiza');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (57, 3464, 1, 'Nagy Noris');
+values (57, 2744, 8, 'Panait Melisa Norica');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (58, 3266, 7, 'Ichim Viviana');
+values (58, 3320, 14, 'Tomescu Alice');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (59, 2779, 17, 'Dumitriu Iacov');
+values (59, 3285, 16, 'Iordache Eremia');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (60, 2957, 10, 'Paduraru Voichita');
+values (60, 2009, 17, 'Trifan Letitia Dorli');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (61, 3478, 17, 'Moldovan Horea');
+values (61, 2852, 14, 'Stefan Cazimir Gheorghe');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (62, 2335, 11, 'Apostol Simion');
+values (62, 3169, 3, 'Pana Eliana');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (63, 2765, 6, 'Vlad Octavian');
+values (63, 2111, 4, 'Panait Vasilica');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (64, 2605, 10, 'Iordache Ina');
+values (64, 2834, 1, 'Enache Arcadian');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (65, 2163, 4, 'Manolache Iridenta');
+values (65, 3256, 19, 'Iancu Nicu Gelu');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (66, 3254, 8, 'Szekely Pompiliu');
+values (66, 2344, 7, 'Sima Noemi Aureliana');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (67, 2718, 8, 'Radu Sofia');
+values (67, 2302, 9, 'Sandor Caterina Aglaia');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (68, 2053, 19, 'Fodor Silviu');
+values (68, 3338, 10, 'Giurgiu Cornel Veniamin');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (69, 2501, 2, 'Oprea Stelian');
+values (69, 2091, 7, 'Nicolae Dimitrina Marina');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (70, 3302, 8, 'Florescu Veniamin');
+values (70, 3429, 19, 'Dragoi Vicentiu');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (71, 3457, 15, 'Gal Carmen');
+values (71, 3415, 8, 'Ursu Lucian Constantin');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (72, 2139, 7, 'Morar Carla');
+values (72, 3072, 18, 'Tudorache Arsenie Nicu');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (73, 2412, 9, 'Horvath Angelica');
+values (73, 2697, 19, 'Balint Glorita');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (74, 2413, 19, 'Avram Octaviana');
+values (74, 2054, 17, 'Toma Lascar');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (75, 3466, 4, 'Kiss Crin');
+values (75, 2804, 18, 'Rotaru Marieta Paulina');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (76, 2517, 6, 'Popovici Alistar');
+values (76, 2642, 15, 'Mihailescu Dorian');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (77, 2570, 8, 'Nemes Demetra');
+values (77, 2901, 11, 'Ardeleanu Grigoras');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (78, 2541, 4, 'Enache Norman');
+values (78, 2713, 6, 'Grigorescu Nechifor Gratian');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (79, 3071, 12, 'Patrascu Florentina');
+values (79, 3126, 15, 'Istrate Dorin Silvian');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (80, 2734, 10, 'Albu Lascar');
+values (80, 3087, 8, 'Ispas Costache Ionel');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (81, 3493, 5, 'Munteanu Voicu');
+values (81, 2385, 11, 'Cretu Mariuca Vera');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (82, 2510, 6, 'Stoian Zeno');
+values (82, 2590, 8, 'Szasz Anemona');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (83, 3472, 14, 'Sandu Antoaneta');
+values (83, 2243, 15, 'Antal Steliana Tereza');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (84, 2708, 18, 'Gheorghita Valeriu');
+values (84, 2590, 15, 'Lungu Sorina');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (85, 3413, 17, 'Patrascu Catrinel');
+values (85, 2590, 15, 'Simionescu Grigore');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (86, 3345, 15, 'Cozma Sandu');
+values (86, 2666, 5, 'Dascalu Aneta Marcela');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (87, 2410, 13, 'Mircea Niculita');
+values (87, 2533, 9, 'Bucur Ducu');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (88, 3223, 16, 'Florea Geta');
+values (88, 2801, 5, 'Banica Mihai');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (89, 2249, 11, 'Ionescu Alexia');
+values (89, 3338, 1, 'Chivu Catalin Alin');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (90, 2061, 8, 'Rotaru Marin');
+values (90, 2450, 13, 'Neacsu Simina');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (91, 2384, 19, 'Cornea Simina');
+values (91, 3210, 6, 'Barbulescu Petria Gentiana');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (92, 3454, 3, 'Iliescu Agripina');
+values (92, 2879, 9, 'Muntean Atanasio');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (93, 2923, 4, 'Neagoe Nicolaie');
+values (93, 3240, 1, 'Botezatu Aristita Evanghelina');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (94, 3120, 15, 'Apostol Sebastian');
+values (94, 3302, 15, 'Oancea Coralia');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (95, 2069, 15, 'Marginean Norbert');
+values (95, 3487, 3, 'Simion Raluca Safta');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (96, 3177, 12, 'Cojocaru Nicoara');
+values (96, 3331, 3, 'Diaconescu Izaura Fabia');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (97, 3157, 19, 'Neagu Aneta');
+values (97, 2841, 18, 'Olariu Gregorian Catalin');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (98, 2810, 18, 'Iacob Manuela');
+values (98, 3324, 10, 'Stancu Iosif Anatolie');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (99, 2637, 6, 'Tataru Georgeta');
+values (99, 3252, 18, 'Dragan Hortensia Ivona');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (100, 3433, 14, 'Georgescu Dariana');
+values (100, 2190, 16, 'Tudose Luciana Milena');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (101, 2372, 7, 'Milea Septimiu');
+values (101, 2457, 8, 'Damian Carina Luiza');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (102, 2367, 19, 'Gavrila Viviana');
+values (102, 3073, 4, 'Chivu Tiberia Ilinca');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (103, 3014, 14, 'Croitoru Mitrut');
+values (103, 3394, 5, 'Dan Ludovica');
 insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
-values (104, 2048, 10, 'Micu Mircea');
+values (104, 2379, 11, 'Grigorescu Mirela Maia');
