@@ -1,0 +1,86 @@
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Foitaj sirop artar, nuci Pecan', 1, 9.25, 302, 1194, 'Senegal');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Prajitura Boema', 2, 14.0, 176, 1603, 'Kenya');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Merdenea cu branza', 3, 7.21, 673, 1920, 'Saint Vincent and the Grenadines');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Chifla Kaiser', 4, 3.27, 467, 1652, 'United States');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Platou miniprajituri varianta 6', 5, 100.0, 315, 1534, 'Belize');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Prajitura Framboise', 6, 19.0, 276, 1734, 'Argentina');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Croissant cu umplutura de caise', 7, 9.17, 632, 892, 'Israel');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Rulou cu mere', 8, 2.81, 379, 1383, 'North Macedonia');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Franzela graham feliata', 9, 9.83, 636, 987, 'Micronesia, Federated States of');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Miniprajituri Krantz', 10, 100.0, 156, 1876, 'Austria');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Chifla fitness', 11, 7.13, 938, 1338, 'Grenada');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Pricomigdale', 12, 125.0, 764, 1924, 'Norfolk Island');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Foitaj cu pizza', 13, 9.96, 630, 1473, 'Nauru');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Platou minieclere', 14, 160.0, 664, 642, 'Dominica');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Chifla cu cartofi in stil taranesc', 15, 9.22, 355, 648, 'Panama');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Fursecuri Fourstafide', 16, 100.0, 331, 1707, 'Switzerland');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Miniprajitura Piemont Chocolat', 17, 100.0, 402, 1379, 'Norway');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Miniprajituri Petit David', 18, 140.0, 962, 1725, 'Myanmar');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Prajitura St. Julien', 19, 19.0, 680, 622, 'Indonesia');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Miniprajituri Alba ca Zapada', 20, 100.0, 153, 405, 'Myanmar');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Placinta cu mere', 21, 3.36, 77, 197, 'Barbados');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Ecler cu cafea', 22, 16.0, 916, 1251, 'Indonesia');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Painea Padurarului', 23, 1.88, 81, 1895, 'Kiribati');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Gogoasa cu umplutura ciocolata', 24, 6.09, 418, 1608, 'Italy');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Paine neagra rotunda feliata', 25, 3.56, 907, 1709, 'French Polynesia');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Croissant cu sunca si cascaval', 26, 6.35, 297, 477, 'Latvia');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Prajitura Petit David', 27, 20.0, 949, 275, 'Sao Tome and Principe');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Pricomigdale cu crema', 28, 130.0, 404, 1102, 'Myanmar');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Macarons cu fistic', 29, 6.0, 440, 459, 'Lebanon');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Macarons set 8 buc', 30, 42.0, 456, 1446, 'Saint Lucia');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Miniprajitura Irish Coffee', 31, 100.0, 492, 100, 'French Polynesia');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Savarina', 32, 14.0, 327, 1874, 'Korea, Democratic People's Republic of');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Ecler cu ciocolata', 33, 16.0, 948, 1815, 'Bahamas');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Prajitura Le delice d'Andreas', 34, 20.0, 183, 606, 'Central African Republic');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Croissant cu unt', 35, 3.5, 88, 296, 'Papua New Guinea');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Platou miniprajituri varianta 5', 36, 150.0, 732, 1008, 'Cambodia');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Macarons cu afine', 37, 6.0, 768, 828, 'Botswana');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Macarons cu fructul pasiunii', 38, 6.0, 376, 981, 'Monaco');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Tarta Baileyna', 39, 16.0, 968, 1473, 'Mexico');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Prajitura Pralin Tonka', 40, 20.0, 170, 1226, 'Bahamas');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Platou Chouquettes', 41, 130.0, 781, 1731, 'Lebanon');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Burek grecesc cu spanac si branza', 42, 5.13, 796, 1309, 'Mauritius');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Mini placinta cu mere', 43, 80.0, 706, 421, 'Uganda');

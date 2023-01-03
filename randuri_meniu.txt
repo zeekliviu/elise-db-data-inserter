@@ -1,0 +1,110 @@
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Foitaj sirop artar, nuci Pecan', 9.25, 1);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Prajitura Boema', 14.0, 2);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Merdenea cu branza', 7.21, 3);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Chifla Kaiser', 3.27, 4);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Platou miniprajituri varianta 6', 100.0, 5);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Prajitura Framboise', 19.0, 6);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Croissant cu umplutura de caise', 9.17, 7);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Rulou cu mere', 2.81, 8);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Franzela graham feliata', 9.83, 9);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Miniprajituri Krantz', 100.0, 10);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Chifla fitness', 7.13, 11);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Pricomigdale', 125.0, 12);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Foitaj cu pizza', 9.96, 13);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Platou minieclere', 160.0, 14);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (2, 'Chifla cu cartofi in stil taranesc', 9.22, 15);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (2, 'Fursecuri Fourstafide', 100.0, 16);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (2, 'Miniprajitura Piemont Chocolat', 100.0, 17);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (2, 'Miniprajituri Petit David', 140.0, 18);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (2, 'Prajitura St. Julien', 19.0, 19);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (2, 'Miniprajituri Alba ca Zapada', 100.0, 20);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (2, 'Placinta cu mere', 3.36, 21);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (2, 'Ecler cu cafea', 16.0, 22);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (2, 'Painea Padurarului', 1.88, 23);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (3, 'Gogoasa cu umplutura ciocolata', 6.09, 24);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (4, 'Paine neagra rotunda feliata', 3.56, 25);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (4, 'Croissant cu sunca si cascaval', 6.35, 26);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (4, 'Prajitura Petit David', 20.0, 27);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (4, 'Pricomigdale cu crema', 130.0, 28);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (4, 'Macarons cu fistic', 6.0, 29);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (4, 'Croissant cu umplutura de caise', 9.17, 7);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (4, 'Miniprajitura Piemont Chocolat', 100.0, 17);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (5, 'Macarons set 8 buc', 42.0, 30);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (5, 'Miniprajitura Irish Coffee', 100.0, 31);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (6, 'Macarons cu fistic', 6.0, 29);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (6, 'Savarina', 14.0, 32);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (6, 'Pricomigdale', 125.0, 12);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (6, 'Ecler cu ciocolata', 16.0, 33);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (7, 'Prajitura Le delice d'Andreas', 20.0, 34);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (7, 'Ecler cu ciocolata', 16.0, 33);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (7, 'Croissant cu unt', 3.5, 35);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (7, 'Ecler cu cafea', 16.0, 22);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (7, 'Platou miniprajituri varianta 5', 150.0, 36);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (8, 'Pricomigdale', 125.0, 12);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (8, 'Placinta cu mere', 3.36, 21);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (8, 'Macarons cu afine', 6.0, 37);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (9, 'Macarons cu fructul pasiunii', 6.0, 38);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (9, 'Croissant cu unt', 3.5, 35);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (9, 'Miniprajitura Piemont Chocolat', 100.0, 17);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (9, 'Tarta Baileyna', 16.0, 39);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (9, 'Prajitura Pralin Tonka', 20.0, 40);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (9, 'Platou Chouquettes', 130.0, 41);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (9, 'Burek grecesc cu spanac si branza', 5.13, 42);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (9, 'Mini placinta cu mere', 80.0, 43);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (9, 'Macarons cu fistic', 6.0, 29);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (9, 'Pricomigdale', 125.0, 12);
