@@ -1,0 +1,10 @@
+insert into meniuri (id_meniu, id_patiserie, nr_produse)
+values (0, 0, 7);
+insert into meniuri (id_meniu, id_patiserie, nr_produse)
+values (1, 1, 9);
+insert into meniuri (id_meniu, id_patiserie, nr_produse)
+values (2, 2, 3);
+insert into meniuri (id_meniu, id_patiserie, nr_produse)
+values (3, 3, 10);
+insert into meniuri (id_meniu, id_patiserie, nr_produse)
+values (4, 4, 1);

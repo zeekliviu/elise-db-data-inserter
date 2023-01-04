@@ -1,3 +1,215 @@
+set define off;
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (0, 4299, null, 'Pavel Leonidas Titus');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (1, 4189, 4, 'Adam Antoaneta');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (2, 4202, 5, 'Danciu Vicentia');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (3, 4181, 4, 'Veres Milena');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (4, 4127, 5, 'Chis Anatolie');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (5, 4206, 0, 'Manolache Carmen Melisa');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (6, 4240, 0, 'Voicu Salomea Stefania');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (7, 4213, 0, 'Tamas Cristea Cristobal');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (8, 4222, 0, 'Pasca Nicoleta');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (9, 4212, 6, 'Florescu Anaida Luiza');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (10, 4084, 8, 'Suciu Adina Salomea');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (11, 4299, 7, 'Grigore Maximilian');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (12, 4210, 5, 'Simionescu Codrina Casandra');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (13, 4272, 4, 'Opris Clementina Liliana');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (14, 4233, 4, 'Ganea Costica Iacov');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (15, 4203, 8, 'Nastase Eliza Angela');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (16, 4235, 7, 'Achim Teofil Antim');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (17, 4170, 8, 'Toth Moise Mihaita');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (18, 4188, 6, 'Ionescu Casian');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (19, 4215, 8, 'Draghici Antoniu');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (20, 2288, 7, 'Trifan Anghelina Marioara');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (21, 2269, 17, 'Crisan Veniamin Edgar');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (22, 2154, 3, 'Dumitrache Cristea');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (23, 3319, 2, 'Iordache Ariana Floriana');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (24, 2059, 9, 'Veres Fiodor');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (25, 2548, 10, 'Aldea Catrinel Codruta');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (26, 2548, 15, 'Ionescu Carmen');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (27, 2803, 14, 'Macovei Rafael Amza');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (28, 2604, 17, 'Neagoe Leonid Zaharia');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (29, 3349, 6, 'Nita Melania Daria');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (30, 2789, 4, 'Gavrila Emanuil');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (31, 2167, 9, 'Anterior Crina Alida');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (32, 2515, 3, 'Dobrescu Janina Aurica');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (33, 3135, 1, 'Bucur Lucentiu Octaviu');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (34, 3128, 15, 'Florescu Banel Leonid');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (35, 3045, 8, 'Sava Cecil Gherasim');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (36, 2731, 11, 'Bodea Cipriana');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (37, 3294, 6, 'Istrate Plesu');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (38, 3391, 1, 'Iancu Vera Tereza');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (39, 3101, 1, 'Gherman Bianca');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (40, 2130, 2, 'Cretu Constantin');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (41, 2833, 19, 'Manolache Magdalena Iris');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (42, 2738, 13, 'Trifan Ladislau Ionel');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (43, 3423, 1, 'Coman Luana');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (44, 2813, 3, 'Radulescu Beatrice');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (45, 2806, 17, 'Negoita Melisa');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (46, 3289, 15, 'Apostol Catalin Romeo');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (47, 3039, 7, 'Ionita Eliza Tudosia');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (48, 2570, 7, 'Dumitriu Nicolaie');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (49, 2297, 19, 'Nechita Marcheta Casandra');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (50, 2321, 12, 'Pirvu Marinel');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (51, 2685, 11, 'Szekely Monalisa Ioana');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (52, 2572, 2, 'Matei Norbert Nicolaie');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (53, 2304, 1, 'Ardelean Basarab Remus');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (54, 2047, 3, 'Gabor Astrid Claudia');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (55, 3333, 10, 'Ciobanu Lucretiu Aleodor');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (56, 3131, 12, 'Olaru Renata');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (57, 2297, 19, 'Nastase Adi');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (58, 3412, 17, 'Sava Gregorian Laurian');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (59, 2211, 16, 'Andrei Romina Anghelina');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (60, 2087, 18, 'Tamas Madalina Adela');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (61, 3461, 12, 'Negru Corvin Horia');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (62, 2458, 6, 'Roman Camil Iacob');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (63, 2323, 7, 'Draghici Dina Aurica');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (64, 2532, 1, 'Botezatu Lili');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (65, 2539, 3, 'Covaci Zaharia Stefan');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (66, 2745, 6, 'Rosca Teresa Fausta');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (67, 3456, 8, 'Manolache Vanesa Anca');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (68, 2015, 12, 'Manolache Leopoldina');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (69, 3460, 11, 'Enache Marusia');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (70, 2123, 2, 'Munteanu Toma');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (71, 3461, 16, 'Popovici Angela');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (72, 2619, 19, 'Chiriac Tamara Anaida');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (73, 2481, 12, 'Zaharia Viorela Carla');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (74, 2713, 4, 'Rus Florin Irinel');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (75, 2705, 5, 'Avram Costin');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (76, 2809, 9, 'Horvath Augustin Augustin');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (77, 3389, 16, 'Kiss Beatrice');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (78, 3012, 14, 'Gavrila Sandica');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (79, 2349, 4, 'Iliescu Iulia');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (80, 2210, 10, 'Anterior Maximilian Gabi');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (81, 2169, 19, 'Chirila Arcadian');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (82, 2907, 13, 'Lupu Gherasim');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (83, 3340, 17, 'Chirila Stan Vladimir');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (84, 3313, 2, 'Dobre Mona Laurentia');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (85, 3045, 7, 'Blaga Olimpian');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (86, 3443, 12, 'Antal Tudorica Miuta');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (87, 3251, 15, 'Biro Leana Frusina');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (88, 3495, 17, 'Oprea Ovidiu');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (89, 3021, 17, 'Grosu Simina');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (90, 2897, 15, 'Barbulescu Andrada');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (91, 2132, 16, 'Mihailescu Paulica Augustina');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (92, 3490, 6, 'Ganea Toma');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (93, 2045, 14, 'Szabo Dalia Diana');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (94, 2728, 17, 'Savu Nina');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (95, 2392, 5, 'Marinescu Niculina');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (96, 2016, 9, 'Nechita Zenovia');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (97, 3368, 3, 'Ilie Leonard');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (98, 3353, 16, 'Costache Julieta Iolanda');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (99, 3482, 5, 'Marginean Eleonora Eliza');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (100, 2708, 12, 'Costea Daiana');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (101, 2800, 6, 'Marginean Betina Rada');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (102, 2841, 3, 'Craciun Paul');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (103, 3180, 6, 'Badea Rada Mona');
+insert into angajati_patiserie (id_angajat, salariul, id_manager, nume)
+values (104, 2356, 2, 'Dragomir Robertina');
+
 insert into ingrediente (id_ingredient, producator, nume, pret)
 values (0, 'Hulala', 'Preparat cu Aerosoli Indulcit pe baza de Smantana si Grasimi Vegetale 700ml', 55.99);
 insert into ingrediente (id_ingredient, producator, nume, pret)
@@ -806,3 +1018,143 @@ insert into ingrediente (id_ingredient, producator, nume, pret)
 values (402, 'Dr.Oetker', 'Mix pentru Glazura cu Gust de Caramel 100g', 3.85);
 insert into ingrediente (id_ingredient, producator, nume, pret)
 values (403, 'Cosmin', 'Zahar Vanilinat 8g', 0.46);
+
+insert into locatii_patiserii (id_patiserie, nr_angajati, data_infiintare, id_manager)
+values (0, 7, to_date('2020-03-20', 'yyyy-mm-dd'), 4);
+insert into locatii_patiserii (id_patiserie, nr_angajati, data_infiintare, id_manager)
+values (1, 6, to_date('2016-10-10', 'yyyy-mm-dd'), 5);
+insert into locatii_patiserii (id_patiserie, nr_angajati, data_infiintare, id_manager)
+values (2, 9, to_date('2020-02-04', 'yyyy-mm-dd'), 6);
+insert into locatii_patiserii (id_patiserie, nr_angajati, data_infiintare, id_manager)
+values (3, 7, to_date('2015-09-20', 'yyyy-mm-dd'), 7);
+insert into locatii_patiserii (id_patiserie, nr_angajati, data_infiintare, id_manager)
+values (4, 6, to_date('2021-10-30', 'yyyy-mm-dd'), 8);
+
+insert into meniuri (id_meniu, id_patiserie, nr_produse)
+values (0, 0, 7);
+insert into meniuri (id_meniu, id_patiserie, nr_produse)
+values (1, 1, 9);
+insert into meniuri (id_meniu, id_patiserie, nr_produse)
+values (2, 2, 3);
+insert into meniuri (id_meniu, id_patiserie, nr_produse)
+values (3, 3, 10);
+insert into meniuri (id_meniu, id_patiserie, nr_produse)
+values (4, 4, 1);
+
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Franzela graham feliata', 8.98, 1);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Miniprajituri Alba ca Zapada', 100.0, 2);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Rulou cu mere', 9.02, 3);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Foitaj cu pizza', 6.02, 4);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Macarons set 8 buc', 42.0, 5);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Pain au Chocolat', 3.54, 6);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (0, 'Platou miniprajituri varianta 5', 150.0, 7);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Tarta Baileyna', 16.0, 8);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Franzela graham feliata', 8.98, 1);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Platou miniprajituri varianta 2', 75.0, 9);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Prajitura Petit David', 20.0, 10);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Miniprajitura Irish Coffee', 100.0, 11);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Burek grecesc cu spanac si branza', 6.31, 12);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Paine neagra rotunda feliata', 1.89, 13);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Rulou cu mere', 9.02, 3);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (1, 'Covrigi cu seminte', 4.44, 14);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (2, 'Platou miniprajituri varianta 4', 130.0, 15);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (2, 'Pricomigdale cu crema', 130.0, 16);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (2, 'Franzela alba feliata', 4.9, 17);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (3, 'Miniprajitura Le delice d'Andreas', 140.0, 18);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (3, 'Ecler Pistache Griotte', 15.0, 19);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (3, 'Foitaj sirop artar, nuci Pecan', 9.78, 20);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (3, 'Merdenea cu telemea', 5.05, 21);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (3, 'Prajitura St. Julien', 19.0, 22);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (3, 'Macarons cu caramel sarat', 5.0, 23);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (3, 'Chifla', 6.59, 24);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (3, 'Painea Padurarului', 6.22, 25);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (3, 'Melc cu stafide si crema de patiserie', 3.26, 26);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (3, 'Cremsnit', 14.0, 27);
+insert into randuri_meniu (id_meniu, denumire_produs, pret, id_produs)
+values (4, 'Miniprajitura Le delice d'Andreas', 140.0, 18);
+
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Franzela graham feliata', 1, 8.98, 679, 797, 'Nauru');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Miniprajituri Alba ca Zapada', 2, 100.0, 899, 1254, 'Western Sahara');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Rulou cu mere', 3, 9.02, 389, 824, 'Jordan');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Foitaj cu pizza', 4, 6.02, 965, 444, 'Bermuda');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Macarons set 8 buc', 5, 42.0, 484, 290, 'Panama');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Pain au Chocolat', 6, 3.54, 484, 1329, 'Niue');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Platou miniprajituri varianta 5', 7, 150.0, 869, 1786, 'Niue');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Tarta Baileyna', 8, 16.0, 524, 793, 'Russian Federation');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Platou miniprajituri varianta 2', 9, 75.0, 314, 1924, 'Australia');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Prajitura Petit David', 10, 20.0, 53, 1761, 'Cayman Islands');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Miniprajitura Irish Coffee', 11, 100.0, 780, 1719, 'Korea, Democratic People's Republic of');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Burek grecesc cu spanac si branza', 12, 6.31, 519, 1725, 'United Arab Emirates');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Paine neagra rotunda feliata', 13, 1.89, 379, 1683, 'Barbados');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Covrigi cu seminte', 14, 4.44, 412, 568, 'Nigeria');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Platou miniprajituri varianta 4', 15, 130.0, 644, 438, 'Burkina Faso');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Pricomigdale cu crema', 16, 130.0, 790, 229, 'Estonia');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Franzela alba feliata', 17, 4.9, 81, 1576, 'Norway');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Miniprajitura Le delice d'Andreas', 18, 140.0, 78, 226, 'Belgium');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Ecler Pistache Griotte', 19, 15.0, 413, 111, 'Andorra');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Foitaj sirop artar, nuci Pecan', 20, 9.78, 287, 1463, 'Suriname');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Merdenea cu telemea', 21, 5.05, 354, 939, 'Pitcairn');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Prajitura St. Julien', 22, 19.0, 430, 1768, 'Eswatini');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Macarons cu caramel sarat', 23, 5.0, 647, 275, 'United Kingdom');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Chifla', 24, 6.59, 57, 1562, 'French Polynesia');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Painea Padurarului', 25, 6.22, 484, 1091, 'Mayotte');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Melc cu stafide si crema de patiserie', 26, 3.26, 498, 387, 'Palau');
+insert into produse_patiserie (denumire_produs, id_produs, pret, gramaj, calorii, tara_origine)
+values('Cremsnit', 27, 14.0, 640, 1699, 'Mali');
+
+set define on;

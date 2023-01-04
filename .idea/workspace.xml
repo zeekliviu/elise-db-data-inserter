@@ -5,46 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f56b8a63-beeb-4b1f-abeb-1ad81af8f950" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pagina2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/analytics.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/ec.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/fursecuri-spritate-cu-ciocolata.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/like.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/macarons-cu-afine-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/macarons-cu-aroma-de-cafea.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/macarons-cu-aroma-de-caramel-sarat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/macarons-cu-fructul-pasiunii.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/macarons-set-12-buc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/macarons-set-35-buc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/macarons-set-8-buc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/macarons-zmeura-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/maracons-cu-aroma-de-fistic-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/mini-placinta-cu-mere.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/miniprajitura-le-delice-d-andreas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/miniprajitura-mini-a-la-carotte.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/minitarte-cu-fructe-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/platou-chouquettes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/platou-minieclere.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/platou-miniprajituri-varianta-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/platou-miniprajituri-varianta-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/platou-miniprajituri-varianta-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/platou-miniprajituri.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/platou-minitarte.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/platou-varianta-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/ratings.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/ratings.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/sdk.js(1).download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/sdk.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/tarta-baileyna.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/v_357_696b160bc7050392f953a47140db1800_all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina2_files/v_434_6b313d92a0c05896b39a1870b24b0b62.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randuri_meniu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schema BD.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angajati.txt" beforeDir="false" afterPath="$PROJECT_DIR$/angajati.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ingrediente.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ingrediente.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produse_patiserie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/produse_patiserie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/randuri_meniu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/randuri_meniu.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +86,7 @@
       <workItem from="1672514365626" duration="56000" />
       <workItem from="1672577131822" duration="14148000" />
       <workItem from="1672766262943" duration="14806000" />
+      <workItem from="1672828607229" duration="1863000" />
     </task>
     <servers />
   </component>
@@ -130,6 +97,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/elise_db_data_inserter$main.coverage" NAME="main Coverage Results" MODIFIED="1672780571923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/elise_db_data_inserter$main.coverage" NAME="main Coverage Results" MODIFIED="1672829827514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
